@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diluvium lachrymarum a review of the fortunate &amp; unfortunate adventurers : a satyr in burlesque, upon the famous lottery, set up in Freeman's-yard in Corn-hill.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21242</idno><idno type="EEBO-CITATION">18459764</idno>
+  <idno type="VID">206447</idno>
+  <idno type="EEBO-PROQUEST">2240876478</idno>
+  
+            <idno type="STC">Wing D1492</idno>
+            <idno type="OCLC">18459764</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1631:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Diluvium lachrymarum a review of the fortunate &amp; unfortunate adventurers : a satyr in burlesque, upon the famous lottery, set up in Freeman's-yard in Corn-hill.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"Price three pence."</note>
+                  <note>Imperfect: torn and slightly faded.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lotteries --  England --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206447:1"/>
+            <pb facs="tcp:206447:1"/>
+            <p>
+               <hi>Diluvium Lachrymarum.</hi>
+            </p>
+            <p>A REVIEW OF THE <hi>Fortunate &amp; Vnfortunate</hi> ADVENTURERS.</p>
+            <p>A Satyr in Burlesque, Upon the FAMOUS LOTTERY, Set up in FREEMANS-YARD in CORN-HILL.</p>
+            <q>
+               <hi>Te colimus Fortuna Deam</hi>—</q>
+            <p>
+               <hi>London,</hi> Printed and are to be Sold by <hi>Randal Taylor.</hi> 1694.</p>
+            <p>Price Three Pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206447:2"/>
+            <pb n="3" facs="tcp:206447:2"/>
+            <head>A REVIEW OF THE Fortunate and Unfortunate, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>IN <hi>Freemans-Yard,</hi> the Heart of City,</l>
+               <l>The Scene of our ensuing Ditty,</l>
+               <l>Was late set up a <hi>Lott'ry</hi> Famous,</l>
+               <l>To please some Wise, some Ignoramus.</l>
+               <l>By dint of wondrous Expectation,</l>
+               <l>That sweetest mortal Titillation,</l>
+               <l>No less than Fifty Thousand Tools,</l>
+               <l>A jolly Crew of gaping Fools;</l>
+               <l>Of all Degrees, and of all Ages,</l>
+               <l>Up from young Fops to grave old Sages;</l>
+               <l>All Compounds too, or Course or Gay,</l>
+               <l>That e're were made of <hi>Adams</hi> Clay;</l>
+               <l>
+                  <hi>Diana, Venus,</hi> Fair or Fowl,</l>
+               <l>And Jug and Madam, Cheeg by Joule;</l>
+               <l>Ermine and Vermine, Rags and Scarlets,</l>
+               <l>Promiscuous all, both Lords and Varlets,</l>
+               <l>Citts Sons, and the Court Sires that got em;</l>
+               <l>All Merchant-Venturers in one Bottom.</l>
+               <l>The old Ark ne're was better fill'd,</l>
+               <l>That clean, unclean, all Cattle held:</l>
+               <l>'Twas here all Voices, strong or Feeble,</l>
+               <l>All Tongues, all Pipes from Base to Trebble,</l>
+               <pb n="4" facs="tcp:206447:3"/>
+               <l>Roarers or Wheesers, Squeakers, Grunters;</l>
+               <l>Joyn'd in full Cry for <hi>Fortune-Hunters.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Our Theatre this Pride may Vapor,</l>
+               <l>'Twas once a School for Jigg and Caper:</l>
+               <l>Fit Scene our Fortunes Stage t' advance;</l>
+               <l>For all that Win, I am sure, may Dance.</l>
+               <l>Here on erected Council-Board,</l>
+               <l>Like <hi>Bessus</hi>'s Brothers of the Sword,</l>
+               <l>Sit the grand Oracles to disjoynt</l>
+               <l>The Blank, Prize, soft or knotty point.</l>
+               <l>Rank'd by Groom-Porter <hi>Mussulman,</hi>
+               </l>
+               <l>The <hi>Muf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i</hi> of this great <hi>Divan;</hi>
+               </l>
+               <l>With Hospital sweet Youths up-lifted,</l>
+               <l>Young Lambs with Innocence well gifted;</l>
+               <l>Who little Ganymedes sit ready;</l>
+               <l>Fit hands to hold our Scales more steddy.</l>
+            </lg>
+            <lg>
+               <l>But, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'re we come to th' grand Decision,</l>
+               <l>First let's prepare for dazling Vision.</l>
+               <l>Up in a proud Balcone above,</l>
+               <l>The Orb of Beauty and of Love,</l>
+               <l>Behold a Gaudy Troop Divine,</l>
+               <l>In glorious Constellation Shine;</l>
+               <l>Stars with their several Beams indu'd,</l>
+               <l>Of First or Second Magnitude.</l>
+               <lg>
+                  <l>Nor come they here, so Blithe and Gay,</l>
+                  <l>With killing Eyes to wound and slay,</l>
+                  <l>Their common work of every Day;</l>
+               </lg>
+               <l>No, they have more important matters,</l>
+               <l>Not only idle bare Spectators,</l>
+               <pb n="5" facs="tcp:206447:3"/>
+               <l>But Int'ress'd-parties: not to wrong 'em;</l>
+               <l>Whole hundred watring mouths among 'em;</l>
+               <l>Fair Rivals all for the great Prize,</l>
+               <l>The Sexes Darling, Bulk and size:</l>
+               <l>Like the fair Candidates of Old</l>
+               <l>For <hi>Paris</hi> glitt'ring Ball of Gold.</l>
+               <l>And well their flatt'ring hopes they build:</l>
+               <l>For what 'gainst Beauties Charms can sheild?</l>
+               <l>Our Deity is not so blind,</l>
+               <l>But to that Sex she must be kind.</l>
+            </lg>
+            <lg>
+               <l>Here a young Beauty weary grown</l>
+               <l>Of Charriot and Two Steeds alone;</l>
+               <l>Both home-bred Palfreys too, course Ware,</l>
+               <l>Too poor to bear a load so fair;</l>
+               <l>A prouder Rich Great Coach to fix,</l>
+               <l>Wants thousands Three for <hi>Flanders</hi> Six.</l>
+               <l>Another Maiden Dame, most Trim,</l>
+               <l>With Oyle in Virgin Lamp full Brim,</l>
+               <lg>
+                  <l>To have and hold for Charms t' invite,</l>
+                  <l>And wed an honest Brawny Knight;</l>
+                  <l>Wants just that Sum her Lamp to light.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A Third of Constitution tender,</l>
+               <l>Of the same melting Female Gender,</l>
+               <l>In Purse and Beauty somewhat low,</l>
+               <l>Wants that Sum too, to keep a Beau.</l>
+            </lg>
+            <lg>
+               <l>A bouncing City Dame stood by,</l>
+               <l>And vow'd, with turn'd up white of Eye,</l>
+               <l>Were the Lot hers, how fine, dear Joy,</l>
+               <l>She'll dress her Eldest prentice Boy;</l>
+               <pb n="6" facs="tcp:206447:4"/>
+               <l>Buy him a galloping Pad-nag Scowrer,</l>
+               <l>To ride to <hi>Epsome</hi> down before her.</l>
+            </lg>
+            <lg>
+               <l>Another Buxom City Matron,</l>
+               <l>Who for a Boy had taken Pattern</l>
+               <l>From Nerve and Brawn to help her need,</l>
+               <l>And mend her spiny City Breed;</l>
+               <l>If Fortune her dear Lot would Crown,</l>
+               <l>Her Spark at 'tother end of Town,</l>
+               <l>(By <hi>Venus</hi> and by <hi>Mars</hi> she swore)</l>
+               <l>Dear Rogue, should trayl a Pike no more.</l>
+               <l>No; by her troth, whate're it cost,</l>
+               <l>She'll mount him to a higher Post.</l>
+               <l>But oh, what tickling hopes she's wrapt in,</l>
+               <l>To see Lot rise to make a Captain.</l>
+            </lg>
+            <lg>
+               <l>From the Balcone you might behold ye,</l>
+               <l>The Region of the Fair, I told ye,</l>
+               <l>A <hi>Philde Chambre</hi> ogle down,</l>
+               <l>Perkt in her Ladies cast-off Gown.</l>
+               <l>Oh, if the great Prize would but hit her,</l>
+               <l>Lord! what a Husband she should get her:</l>
+               <l>No less than Squire, her Masters Son,</l>
+               <l>A Conquest that her Charms have won:</l>
+               <l>In Love's soft Chains she has him fast;</l>
+               <l>For oh, what amorous looks he' has cast;</l>
+               <l>Has kist her twenty times and more,</l>
+               <l>And stroak'd her Bubbies half a score.</l>
+            </lg>
+            <lg>
+               <l>A Country Girl that stood below,</l>
+               <l>To the same Tune her sighs let flow;</l>
+               <l>Oh help me to a lumping Prize,</l>
+               <l>To shine in my dear <hi>Dicky</hi>'s Eyes:</l>
+               <pb n="7" facs="tcp:206447:4"/>
+               <l>Without the Pence, alas poor <hi>Nan,</hi>
+               </l>
+               <l>I fear thou'lt dye, and ne're taste Man.</l>
+            </lg>
+            <lg>
+               <l>Amongst the wishing longing Fair,</l>
+               <l>Some at their first, some their last Prayer,</l>
+               <l>Whether for Husband or for Spark,</l>
+               <l>Still that dear Creature Man's the Mark:</l>
+               <l>So went for Three fair Thousand pound</l>
+               <l>The soft Ejaculations round.</l>
+            </lg>
+            <lg>
+               <l>Nor do the Witty, Young, and Fair,</l>
+               <l>Joyn only in the general Prayer:</l>
+               <l>Wrinkles and Furrows, Age and Crutches,</l>
+               <l>Want the great Prize too in their Cluthces.</l>
+               <l>A Beldam, who from Pouch, God wott,</l>
+               <l>Had dropt an Angel for a Lot,</l>
+               <l>More Shillings than sh' had Teeth, Heav'n knows,</l>
+               <l>Tho' one a Colts one, under Rose,</l>
+               <l>On Marrow-bones devoutly humbles,</l>
+               <l>And her first morning Dirge she mumbles,</l>
+               <l>Both her dry fists to Heav'n up lifts ye,</l>
+               <l>To Beg great Prize: And near twice Fifty,</l>
+               <l>Hopes in meer Charity 'twill come,</l>
+               <l>To buy new Coral for old Gum;</l>
+               <l>A sum will purchase Husbands plenty,</l>
+               <l>And get a Boy of five and Twenty.</l>
+               <l>For what though Blind, Lame, Halt and Cripple,</l>
+               <l>No Teat so old but has a Nipple.</l>
+            </lg>
+            <lg>
+               <l>But to leave Ache, Disease, and Wrinkles,</l>
+               <l>That snuff of Life in Socket twinkles;</l>
+               <l>And to return to th' Fair and Young,</l>
+               <l>The sweeter subject of our Song.</l>
+               <pb n="8" facs="tcp:206447:5"/>
+               <l>Some of their weaker Faiths that dare</l>
+               <l>Not altogether trust to Prayer,</l>
+               <l>Resolv'd the Planets to inlook:</l>
+               <l>To read their Doom, in Fates high Book,</l>
+               <l>Who but great <hi>Patridge</hi> should they follow,</l>
+               <l>That Modern Oracle of <hi>Apollo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Two <hi>Exchange</hi> Fillies, more particular,</l>
+               <l>To that Great Sage made plaints Auticular;</l>
+               <l>And gain'd those wonderful Predictions</l>
+               <l>From Stars too high, for Lyes or Fictions,</l>
+               <l>That instantly the high flown Tits</l>
+               <l>Threw off their Suitors, sneaking Cits;</l>
+               <l>Left the poor Rogues to Hemp or Willow:</l>
+               <l>Their Heads disdain'd so poor a Pillow.</l>
+               <l>Down from their Garrets, three full Scory,</l>
+               <l>To Lodgings Rich, in Pomp and Glory,</l>
+               <lg>
+                  <l>They made their Entry in full State;</l>
+                  <l>So Cocksure of their golden Fate,</l>
+                  <l>Disdain'd to dine in less than Plate.</l>
+               </lg>
+               <l>And when in their sublimer Dreams,</l>
+               <l>Their Contemplations glittering Themes,</l>
+               <l>Visions of Love appear before us,</l>
+               <l>(Love of all Joys fills up the Chorus)</l>
+               <l>They scorn the Thought of Servants humbler</l>
+               <l>Than Quality with Steeds and Rumbler.</l>
+               <l>Or if by chance they stoop so low</l>
+               <l>To think of Cit born Veins, or so;</l>
+               <l>The least will pin upon their sleeve</l>
+               <l>Must be that paltry Thing, a Shr—</l>
+               <pb facs="tcp:206447:5"/>
+               <pb facs="tcp:206447:6"/>
+               <pb n="9" facs="tcp:206447:6"/>
+               <l>But what if that dire Chance betide 'em,</l>
+               <l>That this Gold shour should fall befide 'em.</l>
+               <l>If they e're live to see that Loss,</l>
+               <l>That too unhappy Weeping Cross;</l>
+               <l>Yet their great Prophet's not mistaken;</l>
+               <l>Though they lose Theirs, he saves his Bacon.</l>
+               <l>Infallible Prediction's meant not</l>
+               <l>But only, if our Sins prevent not.</l>
+               <l>Poor Things, some Frailties sad mis-hap</l>
+               <l>Can only make it miss their Lap.</l>
+               <l>But, Ladies, above all the Rest</l>
+               <l>Twelve Damsels of St. <hi>Dustans-West,</hi>
+               </l>
+               <l>The plain Domesticks of the Kitchin,</l>
+               <l>To get a Prize felt that strange itching;</l>
+               <l>In a close Cellar-Consult got,</l>
+               <l>They club'd their Stocks to buy a Lot;</l>
+               <l>Ten Pence a piece made just ten Shilling:</l>
+               <l>Though Purse is weak, yet Flesh is willing.</l>
+               <l>Now for the Masculine Devotion—</l>
+               <l>Their Pulses too beat the same motion.</l>
+               <l>Here you might see a Father <hi>Gripe</hi>
+               </l>
+               <l>Shrug up, and his Mustachios wipe;</l>
+               <l>Fortune, he thinks, in Duty bound,</l>
+               <l>To lott him one poor Thousand Pound;</l>
+               <l>As, Dirt to Dirt, oblig'd at least</l>
+               <l>To fill him one more Iron Chest.</l>
+               <l>There a Young Heir implores the Bliss:</l>
+               <l>Begs the great Prize to keep a <hi>Mis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </l>
+               <l>If his soft Prayer propitious Heaven hears,</l>
+               <l>Cares not if Daddy lives these seven Years.</l>
+               <l>A <hi>POET</hi> too, (by chance God wor,)</l>
+               <l>Had rais'd the sum to buy a Lott.</l>
+               <l>Thinks one Great Prize worth twenty <hi>Bays:</hi>
+               </l>
+               <l>To <hi>Fortune</hi> too would Altars raise;</l>
+               <l>Only th' unhappy Name of <hi>Witt,</hi>
+               </l>
+               <l>He was afraid would spoil his Hit:</l>
+               <pb n="10" facs="tcp:206447:7"/>
+               <l>For Fortune, by her constant Rules,</l>
+               <l>Is only bound to favour <hi>Fools.</hi>
+               </l>
+               <l>But of this vast prize-gaping Host</l>
+               <l>The <hi>Beaus</hi> and <hi>Lovers</hi> make the most:</l>
+               <l>To any other Interests move</l>
+               <l>There's Twenty want it all for Love:</l>
+               <l>Some to buy <hi>Hackney</hi> Milk, and some</l>
+               <l>For <hi>Milchers</hi> of their own at Home.</l>
+               <l>In short, the mighty Goddess <hi>Fortune,</hi>
+               </l>
+               <l>Such contradicting Vows Importune,</l>
+               <l>Her Deity with Devotion hug'd,</l>
+               <l>This way and that way pull'd and tug'd,</l>
+               <l>Her Ears on every side so lug'd.</l>
+               <l>For all Hopes teem'd: not one stood Barren;</l>
+               <l>Whilst Prayers crost Prayers like Hares in Warren.</l>
+               <l>Another sort with Prayers most hearty,</l>
+               <l>Were bribing Fortune to their Party,</l>
+               <l>(In hopes to fix her slippery Deity,)</l>
+               <l>By wondrous promis'd Feats of <hi>Piety.</hi>
+               </l>
+               <l>One, if to him the great Prize falls,</l>
+               <l>Will build a Pillar of St. <hi>Paul</hi>'s.</l>
+               <l>Another Zealous <hi>Ananias,</hi>
+               </l>
+               <l>To spend no less in Uses pious,</l>
+               <l>If t' his Saint-Hand, the Lot assurges,</l>
+               <l>He'll found a Meeting-House for <hi>B</hi>—</l>
+               <l>A roring Royster that stood near him,</l>
+               <l>And hap'd by chance to over-hear him,</l>
+               <l>What means (quoth Spark) the canting Wigion;</l>
+               <l>Wouldst thou Court Fortune with Religion?</l>
+               <l>Hast not thou learnt, a Fop so Old,</l>
+               <l>That <hi>Pluto</hi> is the God of <hi>Gold.</hi>
+               </l>
+               <l>And Sin and Wickedness good store,</l>
+               <l>Are the best Beggers at his Door?</l>
+               <l>If hopes of speeding were to <hi>Pray</hi> for't,</l>
+               <l>Oons, man, Ide take a wiser way for't;</l>
+               <l>Promise and Vow, 'twixt Mad and Drunk,</l>
+               <l>To spend it all on <hi>Wine</hi> and <hi>Punk.</hi>
+               </l>
+               <pb n="11" facs="tcp:206447:7"/>
+               <l>The Saint held up his Hands, and blest him:</l>
+               <l>Nay, and 'tis thought (that Fright possest him)</l>
+               <l>He'had <hi>cross'd</hi> himself: only 'twas <hi>Popish;</hi>
+               </l>
+               <l>And for that Cause not quite so modish.</l>
+               <l>A Jovial Lad (who ill cou'd spare it,</l>
+               <l>When pinch't from Bottle, Friend, and Claret)</l>
+               <l>Pay'd for ten Tickets Angels ten,</l>
+               <l>I hopes of vast Returns agen.</l>
+               <l>And when the sober crowd of wise ones</l>
+               <l>Were paying Fortune their Orisons;</l>
+               <l>He scorn'd to bend a Knee before her,</l>
+               <l>That sickle Gypsy's blind Adorer:</l>
+               <l>In her whole Wheel defyed each Spoke,</l>
+               <l>Resolv'd a Heavenlyer Power t'invoke,</l>
+               <l>T' Implore the mighty God of <hi>Bub.</hi>
+               </l>
+               <l>Her titterish <hi>Ball!</hi> no, his sound <hi>Tub.</hi>
+               </l>
+               <l>If the great Lot falls to his share,</l>
+               <l>He swears by <hi>Bacchus</hi> he'ell repair</l>
+               <l>The barbarous <hi>Lewis</hi> only shame,</l>
+               <l>The burning <hi>Heydelburgs</hi> dire Flame;</l>
+               <l>Refoun'd at his own proper Cost</l>
+               <l>The <hi>Tun</hi> that Conflagration lost.</l>
+               <l>But now to come to dire Conclusion,</l>
+               <l>And paint the Phyzes of Confusion:</l>
+               <l>T' a brace of hundreds and a half,</l>
+               <l>That only have the luck to laugh;</l>
+               <l>No less then nine and Forty Thousand,</l>
+               <l>Seven Hundred Fifty Gapers cozen'd,</l>
+               <l>What Grins, Good L—d, and what Grimaces</l>
+               <l>Was there in all those losing Faces.</l>
+               <l>Here you might hear a whole half hundred,</l>
+               <l>With a loud Peale of Curses thundred,</l>
+               <l>Death! (they all cry.) The happy Nick,</l>
+               <l>Drawn by a Fortunate Sir <hi>Dick!</hi>
+               </l>
+               <l>Falln to a Man of Wealth and Honour!</l>
+               <l>Fortune the Jilt, a Pl— light on her.</l>
+               <pb n="12" facs="tcp:206447:8"/>
+               <l>A sum enough for the preserving</l>
+               <l>Half a score Honest Lads from starving.</l>
+               <l>Some losing Gaimsters swore and damn'd.</l>
+               <l>Lott'ry! was e'r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the World so sham'd!</l>
+               <l>From <hi>Venice,</hi> with a Pox! brought or'e</l>
+               <l>From the da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Babylonian</hi> Shore!</l>
+               <l>Desi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d, most <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tain, for our Ruin:</l>
+               <l>For the poor Protestants undoing:</l>
+               <l>A <hi>Popish-Plot,</hi> they all declare it;</l>
+               <l>Nor doubt but the Great <hi>O—s</hi> can Swear it.</l>
+               <l>But above all, a Country Fellow,</l>
+               <l>Who had ventur'd brace of Tens in Yellow;</l>
+               <l>And travell'd twice ten long deep Mile.</l>
+               <l>Through Thick and Thin, o're Hedge and Stile,</l>
+               <l>To see sweet Fortune kind and Frank;</l>
+               <l>Zooks, when he foun I his hopes all <hi>Blank,</hi>
+               </l>
+               <l>Had chi but lost it at <hi>All-Vours,</hi>
+               </l>
+               <l>(Cryes Lout) 'mongst honest Country Bores,</l>
+               <l>Chi had not cared one fingle Farthing;</l>
+               <l>Chi'd had good Bub then int' hard Bargain;</l>
+               <l>But here chi've made a woful Bout on't:</l>
+               <l>A mon can't wet his Whistle out on't:</l>
+               <l>Nor de'el one thonk your <hi>Porter-Grvm</hi>
+               </l>
+               <l>Will con a mon for all that sum.</l>
+               <l>But, oh, my Masters, what surprize,</l>
+               <l>Ith<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> penetential Beauteous Eyes;</l>
+               <l>So many Fair Expectants cheated,</l>
+               <l>And all their amorous hopes defeated,</l>
+               <l>What Pencil, Reader, must I borrow,</l>
+               <l>To draw that naked Face of Sorrow?</l>
+               <l>All the True Colours should I lay on,</l>
+               <l>I hazard more than old <hi>Acteon.</hi>
+               </l>
+               <l>No, Ladies, not t' incurre your Frown,</l>
+               <l>Nor his hard forked Doom pull down;</l>
+               <l>The bold Adventure Ile give o're:</l>
+               <l>Put on your Masks, Ile see no more.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206447:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
